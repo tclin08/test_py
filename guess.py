@@ -1,3 +1,4 @@
+#coding=utf-8
 import random
 
 guess = random.randint(1,20)
